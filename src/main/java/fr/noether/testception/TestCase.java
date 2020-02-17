@@ -29,10 +29,6 @@ public class TestCase {
     public void setUp() {
     }
 
-    ;
-
     public void tearDown() {
     }
-
-    ;
 }
